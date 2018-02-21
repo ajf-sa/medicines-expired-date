@@ -1,0 +1,46 @@
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\bin\Debug\Drug Expiration Dates.exe.config
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\bin\Debug\Drug Expiration Dates.exe
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\bin\Debug\Drug Expiration Dates.pdb
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\bin\Debug\abdulaziz.dll
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\bin\Debug\abdulaziz.pdb
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.About.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.AddNew.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.Find.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.Finder.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.logOn.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.MainForm.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.PrnControl.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.Setting.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.Update.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\expire.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Drug Expiration Dates.exe
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Drug Expiration Dates.pdb
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.UserPanel.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\Expire.PermissionForm.resources
+C:\Users\Admin\Documents\Dbox\Dropbox\Expire\obj\x86\Debug\expire.csprojResolveAssemblyReference.cache
+C:\Users\North\Dropbox\Expire\bin\Debug\Drug Expiration Dates.exe.config
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Drug Expiration Dates.exe
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Drug Expiration Dates.pdb
+C:\Users\North\Dropbox\Expire\bin\Debug\Drug Expiration Dates.exe
+C:\Users\North\Dropbox\Expire\bin\Debug\Drug Expiration Dates.pdb
+C:\Users\North\Dropbox\Expire\bin\Debug\abdulaziz.dll
+C:\Users\North\Dropbox\Expire\bin\Debug\MySql.Data.dll
+C:\Users\North\Dropbox\Expire\bin\Debug\System.Data.SQLite.dll
+C:\Users\North\Dropbox\Expire\bin\Debug\abdulaziz.pdb
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\expire.csprojResolveAssemblyReference.cache
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.About.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.AddNew.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.Find.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.Finder.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.logOn.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.MainForm.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.PermissionForm.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.PrnControl.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.Setting.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.Update.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\Expire.UserPanel.resources
+C:\Users\North\Dropbox\Expire\obj\x86\Debug\expire.csproj.GenerateResource.Cache
+C:\Users\North\Dropbox\ExpireLite\bin\Debug\Drug Expiration Dates.exe.config
+C:\Users\North\Dropbox\ExpireLite\obj\x86\Debug\Drug Expiration Dates.exe
+C:\Users\North\Dropbox\ExpireLite\obj\x86\Debug\Drug Expiration Dates.pdb
